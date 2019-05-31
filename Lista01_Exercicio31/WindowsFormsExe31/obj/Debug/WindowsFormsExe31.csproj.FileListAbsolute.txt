@@ -1,0 +1,10 @@
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\bin\Debug\WindowsFormsExe31.exe.config
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\bin\Debug\WindowsFormsExe31.exe
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\bin\Debug\WindowsFormsExe31.pdb
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.csprojResolveAssemblyReference.cache
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.FormPrincipal.resources
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.Properties.Resources.resources
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.csproj.GenerateResource.cache
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.csproj.CoreCompileInputs.cache
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.exe
+C:\Users\VideoMaker\source\repos\WindowsFormsExe31\WindowsFormsExe31\obj\Debug\WindowsFormsExe31.pdb
